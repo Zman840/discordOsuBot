@@ -1,0 +1,12 @@
+{
+  "name": "discordOsuPointsSystem",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^4.1.1",
+    "jsonfile": "^2.2.3"
+  }
+}
