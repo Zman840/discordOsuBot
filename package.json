@@ -1,12 +1,12 @@
 {
-  "name": "discordOsuPointsSystem",
+  "name": "discord-osu-points-system",
   "private": true,
   "devDependencies": {},
   "engines": {
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "discord.js": "^4.1.1",
-    "jsonfile": "^2.2.3"
+    "discord.js": "hydrabolt/discord.js#rewrite",
+    "lokijs": "^1.3.10"
   }
 }

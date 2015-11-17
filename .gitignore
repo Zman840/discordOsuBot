@@ -1,7 +1,4 @@
-/node_modules
-/dist
-/.tmp
-/.sass-cache
-/bower_components
-/auth.json
-/debug.log
+node_modules
+npm-debug.log
+debug.log
+config.json
