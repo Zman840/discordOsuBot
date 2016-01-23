@@ -1,12 +1,13 @@
 {
-  "name": "discord-osu-points-system",
+  "name": "discord-osu-ships-system",
   "private": true,
   "devDependencies": {},
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=5.5.0"
   },
   "dependencies": {
-    "discord.js": "hydrabolt/discord.js#rewrite",
-    "lokijs": "^1.3.10"
+    "discord.js": "hydrabolt/discord.js#indev",
+    "lokijs": "^1.3.10",
+    "moment": "^2.10.6"
   }
 }

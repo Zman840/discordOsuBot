@@ -2,3 +2,6 @@ node_modules
 npm-debug.log
 debug.log
 config.json
+.jshintrc
+logs
+logbot.js
